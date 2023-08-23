@@ -1,3 +1,3 @@
-# git.demo
+# my first project
 ### written by tae yong kim
 ### 2023-08-23 13:41
